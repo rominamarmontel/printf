@@ -19,6 +19,23 @@ All libraries and prototypes to be used are in the "main.h" from Holberton Schoo
 
 .SH CONVERSION IDENTIFIERS
 To use _printf you have to use the following key characters preceeded by % symbol.
+.SH RETURN VALUE
+     if format[i] == NULL ->Return(-1)
+     if n == 0            ->Return(-1)
+     if succeeded         ->Return(the number of charaters)
+
+.SH EXAMPLES
+     _printf("Hello World!\n");
+
+     OUTPUT
+     Hello World!
+
+     int a = 5;
+     _printf("%d\n" , a);
+
+     OUTPUT
+     5
+
 .RS 0
 %c: To print a single character > char
 .RS 0
