@@ -113,7 +113,7 @@ Our main files will include your main header file [main.h](https://github.com/gr
 You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf. Example of test file that you could use: [main.c](https://github.com/gregcdjm/printf/edit/main/main.c)
 
 ## :couple: About us ##
-This is the first group project in Holberton Paris School in the 15 mars 2020!!<br>
+This is the first group project in Holberton Paris School in the 15 mars 2022!!<br>
 If you have a question or a comment, please contact us.<br>
 Grégoire COUDRIN (4251@holbertonschool.com)<br>
 Hiromi VARNIER (4336@holbertonschool.com)<br>
